@@ -1,1 +1,2 @@
-Documento para trabalhar as sobre Git e GitHub. teste2
+Documento para trabalhar as sobre Git e GitHub.
+
